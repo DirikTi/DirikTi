@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Asikus</h1>
 <h3 align="center">Data Scientist</h3>
-<iframe src="https://giphy.com/embed/W6dHvprT7oks6BpX5R" width="480" height="446" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dance-yo-kaguya-W6dHvprT7oks6BpX5R">via GIPHY</a></p>
+
+<div style="width:100%;height:0;padding-bottom:93%;position:relative;"><iframe src="https://giphy.com/embed/W6dHvprT7oks6BpX5R" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/dance-yo-kaguya-W6dHvprT7oks6BpX5R">via GIPHY</a></p>
 - 🌱 I’m currently learning **Node.js (manage workers and async hooks)**
 
 - 💬 Ask me about **JAVASCRIPT,SQL**
