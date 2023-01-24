@@ -2,7 +2,7 @@
 <h3 align="center">Data Scientist</h3>
 
 <!--<image src="https://media1.giphy.com/media/W6dHvprT7oks6BpX5R/giphy.gif?cid=790b7611245ac65a98f83b1cbb4f922930b0c559bfb0dab9&rid=giphy.gif&ct=g" />-->
-<image src="https://giphy.com/embed/RLJxQtX8Hs7XytaoyX"</p>
+<image src="https://i.imgur.com/RKN35tB.gif"</p>
 - 🌱 I’m currently learning **Node.js (manage workers and async hooks)**
 
 - 💬 Ask me about **JAVASCRIPT,SQL**
